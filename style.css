@@ -6,13 +6,13 @@ body{
     display: grid;
     justify-content: center;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    gap: 40px;
+    gap: 10px;
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 40px;
     border: solid  8px black;
     border-radius: 20px 10px 10px 20px;
-    height: 70vh;
+    height: 80vh;
 
 }
 /* span{
